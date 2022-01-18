@@ -1,2 +1,2 @@
-# Projects
+# Resume
 my projects
